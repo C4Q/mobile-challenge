@@ -10,86 +10,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e8d42ba-98af-49b5-b03e-b010afe9cfc5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/DtonatorPreferences.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_exifinterface_27_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_2_16_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_8_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_8_8_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_2_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_71828.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_adapter_rxjava2_2_4_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_4_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_4_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_15_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/SearchResponse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/root/ViceAppComponent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_reload.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/search_list_view.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_search.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mobile-challenge.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/AndroidModule.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/root/AndroidModule.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ViceApp.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/root/ViceApp.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ViceAppComponent.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/api/ApiModule.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/api/ApiModule.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/api/MovieService.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/api/MovieService.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/db/DatabaseModule.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/db/DatabaseModule.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/db/FavoritesDatabaseHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/db/FavoritesDatabaseHelper.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/model/Movie.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/Movie.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/model/MovieDetails.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/MovieDetails.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/model/MovieResponse.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/MovieResponse.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/model/Review.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/Review.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/model/ReviewResponse.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/ReviewResponse.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/App.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/root/App.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/DetailsActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/detailsView/DetailsActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/FavoritesView.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/favoritesView/FavoritesView.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/HomeView.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/MovieAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/MovieViewHolder.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/ui/PicassoModule.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/PicassoModule.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_favorites.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_favorites.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_home.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_home.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" afterPath="$PROJECT_DIR$/gradle.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/ListenerDetails.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeViewPresenter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchPresenter.java" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.8/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter$SearchViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter$SearchViewHolder.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter$SearchViewHolder.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter$SearchViewHolder.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$3.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView$4.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/38/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java" afterPath="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -111,88 +68,133 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="SearchView.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="201">
-                  <caret line="140" column="66" lean-forward="false" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SearchImageAdapter.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="141">
-                  <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#1476#1477#0" expanded="true" />
-                    <element signature="e#1523#1524#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="MovieViewHolder.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="73" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="HomeView.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-5">
-                  <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FavoritesView.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/favoritesView/FavoritesView.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="MovieViewHolder.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="142">
-                  <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SearchView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeViewPresenter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeViewPresenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2073#2074#0" expanded="true" />
+                <element signature="e#2110#2111#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchPresenter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchPresenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <element signature="e#1397#1398#0" expanded="true" />
+                <element signature="e#1448#1449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchImageAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="83" column="99" lean-forward="false" selection-start-line="83" selection-start-column="99" selection-end-line="83" selection-end-column="99" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1672#1673#0" expanded="true" />
+                <element signature="e#1719#1720#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListenerDetails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/ListenerDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieViewHolder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="43" column="36" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="43" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeView.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-699">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#2500#2501#0" expanded="true" />
+                <element signature="e#2546#2547#0" expanded="true" />
+                <element signature="e#2617#2618#0" expanded="true" />
+                <element signature="e#2664#2665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-489">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -201,6 +203,10 @@
       <find>deadpo</find>
       <find>MovieResponse</find>
       <find>disposables</find>
+      <find>publishSubject</find>
+      <find>inp</find>
+      <find>getObservableQuery</find>
+      <find>movieService</find>
     </findStrings>
     <replaceStrings>
       <replace>SearchResponse</replace>
@@ -2328,9 +2334,16 @@
         <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/SearchResponse.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/search_list_view.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/view_search.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/root/ViceAppComponent.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/Controller.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchController.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/ListenerDetails.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeController.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeViewPresenter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java" />
       </list>
     </option>
   </component>
@@ -2355,10 +2368,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2390,14 +2402,6 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="mobile" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-challenge" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="mobile" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2413,24 +2417,7 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="mobile" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="root" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-challenge" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="mobile" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile-challenge" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="mobile" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="favoritesView" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mobile-challenge" type="1abcf292:AndroidViewProjectNode" />
@@ -2461,19 +2448,13 @@
             </path>
             <path>
               <item name="mobile-challenge" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="mobile-challenge" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2482,6 +2463,11 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="192.168.56.101:5555" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nyc.c4q.vice.mobile.presentation.ui.searchView" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2664,40 +2650,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39970717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39970717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2710,56 +2695,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/apt/debug/nyc/c4q/vice/mobile/presentation/ui/MainActivity_ViewBinding.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/SearchResponse.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1374">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="750">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#434#435#0" expanded="false" />
-            <element signature="e#464#465#0" expanded="false" />
-            <element signature="e#499#500#0" expanded="false" />
-            <element signature="e#533#534#0" expanded="false" />
-            <element signature="e#570#571#0" expanded="false" />
-            <element signature="e#606#607#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-            <element signature="e#1750#1751#0" expanded="false" />
-            <element signature="e#1793#1794#0" expanded="false" />
-            <element signature="e#1832#1833#0" expanded="false" />
-            <element signature="e#1871#1872#0" expanded="false" />
-            <element signature="e#1908#1909#0" expanded="false" />
-            <element signature="e#1944#1945#0" expanded="false" />
-            <element signature="e#1988#1989#0" expanded="false" />
-            <element signature="e#2032#2033#0" expanded="false" />
-            <element signature="e#2079#2080#0" expanded="false" />
-            <element signature="e#2119#2120#0" expanded="false" />
-            <element signature="e#2164#2165#0" expanded="false" />
-            <element signature="e#2209#2210#0" expanded="false" />
-            <element signature="e#2257#2258#0" expanded="false" />
-            <element signature="e#2305#2306#0" expanded="false" />
-            <element signature="e#2347#2348#0" expanded="false" />
-            <element signature="e#2389#2390#0" expanded="false" />
-            <element signature="e#2430#2431#0" expanded="false" />
-            <element signature="e#2471#2472#0" expanded="false" />
-            <element signature="e#2507#2508#0" expanded="false" />
-            <element signature="e#2543#2544#0" expanded="false" />
-            <element signature="e#2586#2587#0" expanded="false" />
-            <element signature="e#2629#2630#0" expanded="false" />
-            <element signature="e#2666#2667#0" expanded="false" />
-            <element signature="e#2702#2703#0" expanded="false" />
-            <element signature="e#2732#2733#0" expanded="false" />
-            <element signature="e#2765#2766#0" expanded="false" />
-            <element signature="e#2803#2804#0" expanded="false" />
-            <element signature="e#2844#2845#0" expanded="false" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1719#1720#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2772,23 +2723,212 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/search_list_view.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
+        <state relative-caret-position="60">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/favoritesView/FavoritesView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="140" column="66" lean-forward="false" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1719#1720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/api/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/favoritesView/FavoritesView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="140" column="66" lean-forward="false" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1719#1720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/api/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/favoritesView/FavoritesView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/apt/debug/nyc/c4q/vice/mobile/presentation/ui/MainActivity_ViewBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/model/SearchResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1374">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/search_list_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/favoritesView/FavoritesView.java">
@@ -2803,44 +2943,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="2271" column="0" lean-forward="false" selection-start-line="2271" selection-start-column="0" selection-end-line="2271" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="140" column="66" lean-forward="false" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_search.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/root/ViceApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2848,15 +2967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2864,18 +2974,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/data/api/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/detailsView/DetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchImageAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state relative-caret-position="333">
+          <caret line="83" column="99" lean-forward="false" selection-start-line="83" selection-start-column="99" selection-end-line="83" selection-end-column="99" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1719#1720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="43" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/ListenerDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/searchView/SearchPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/recyclerView/MovieAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeViewPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2073#2074#0" expanded="true" />
+            <element signature="e#2110#2111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/nyc/c4q/vice/mobile/presentation/ui/homeView/HomeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#2500#2501#0" expanded="true" />
+            <element signature="e#2546#2547#0" expanded="true" />
+            <element signature="e#2617#2618#0" expanded="true" />
+            <element signature="e#2664#2665#0" expanded="true" />
           </folding>
         </state>
       </provider>
