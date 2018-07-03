@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<nyc.c4q.vice.mobile.ui.FavoritesView
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<nyc.c4q.vice.mobile.presentation.ui.favoritesView.FavoritesView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    >
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
   <android.support.v7.widget.RecyclerView
       android:id="@+id/favorites"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
+      android:orientation="horizontal"
+      app:layoutManager="android.support.v7.widget.LinearLayoutManager"
       />
 
   <TextView
@@ -21,4 +22,4 @@
       android:visibility="gone"
       />
 
-</nyc.c4q.vice.mobile.ui.FavoritesView>
+</nyc.c4q.vice.mobile.presentation.ui.favoritesView.FavoritesView>

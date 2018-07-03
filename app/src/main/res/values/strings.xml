@@ -1,9 +1,10 @@
 <resources>
-  <string name="app_name">Vice App</string>
-  <string name="home_title">Home</string>
-  <string name="favorites_title">Favorites</string>
-  <string name="now_playing">Now Playing</string>
-  <string name="most_popular">Most Popular</string>
-  <string name="no_favorites_yet">No favorites yet! 😞</string>
-  <string name="reviews_label">Reviews</string>
+    <string name="app_name">Vice App</string>
+    <string name="home_title">Home</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="search_title">Search</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="no_favorites_yet">No favorites yet! 😞</string>
+    <string name="reviews_label">Reviews</string>
 </resources>

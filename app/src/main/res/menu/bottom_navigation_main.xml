@@ -6,13 +6,22 @@
       android:enabled="true"
       android:icon="@drawable/ic_home"
       android:title="@string/home_title"
-      app:showAsAction="ifRoom" />
+      app:showAsAction="always" />
 
   <item
       android:id="@+id/action_favorites"
       android:enabled="true"
       android:icon="@drawable/ic_favorites"
       android:title="@string/favorites_title"
-      app:showAsAction="ifRoom" />
+      app:showAsAction="always"
+      />
 
+  <item
+      android:id="@+id/action_search"
+      android:enabled="true"
+      android:icon="@drawable/ic_search"
+      android:title="@string/favorites_title"
+      app:showAsAction="always"
+      />
 </menu>
+
