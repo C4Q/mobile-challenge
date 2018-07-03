@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jun 29 23:12:23 EDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/franciscoandrade/Desktop/ViceApp/mobile-challenge/app/build/intermediates/transforms/dexMerger/release/0
+0.path=classes.dex
+0.set=DEX
+count=1
