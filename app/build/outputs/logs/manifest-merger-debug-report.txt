@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding-design:2.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxbinding-design-2.1.1.aar/08930d40106b573906c3390c2d906666/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:design:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c101795fdd1a4dfc01948ab9a8ad6446/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aec24755b49ba7680e1b894ce4c55861/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/315693455f93ba6da67caed0afbd136f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9f2b851e7279b8e649081c591f7343d8/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxbinding-2.1.1.aar/41279eb1a056579cd4df23ad646108ec/AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/610e581351c78dc904d73e231cb1b419/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/34d9b4d5a4ec0d9b3c625e2e925a0b61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2fd436201120792bb2892c3e36ad4162/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/068064faa14e51276b1fa2f7112e3e41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/44d8bcd33ba1b9a9dc0d9a3e1f358200/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f36efe4b2a867bb501c7a6c4cb3e4153/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f1770f4ad1883eddde06186416fc745/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/607073d9d12cb95436fefba841cc23d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/96a2988652a72228864ffe3311139ab0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/6673abced131cc33858c0cb1e3116c17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/79c435f002952ccf3f22fbca50f70ad5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/29f4596b0bac229e4cbc879353b1e905/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8ec869469dfaaaac41437764ad95047f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/90427ad16c33e53dd635d80e4c191091/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a2fb81a3e4c0c1fa5d56c19900ef39e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2a2b4563b40e0174307d9ff5d003315e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:5:3-64
+	android:name
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:5:20-62
+application
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:7:3-25:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/315693455f93ba6da67caed0afbd136f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/315693455f93ba6da67caed0afbd136f/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:7:5-12:19
+	android:label
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:11:7-39
+	tools:ignore
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:14:7-62
+	android:roundIcon
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:12:7-52
+	android:icon
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:8:7-34
+	android:theme
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:9:7-30
+activity#nyc.c4q.vice.mobile.ui.MainActivity
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:16:5-21:16
+	android:name
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:16:15-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:17:7-20:23
+action#android.intent.action.MAIN
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:18:9-60
+	android:name
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:18:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:19:9-68
+	android:name
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:19:19-66
+activity#nyc.c4q.vice.mobile.ui.DetailsActivity
+ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:23:5-51
+	android:name
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml:23:15-49
+uses-sdk
+INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton.rxbinding2:rxbinding-design:2.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxbinding-design-2.1.1.aar/08930d40106b573906c3390c2d906666/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding-design:2.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxbinding-design-2.1.1.aar/08930d40106b573906c3390c2d906666/AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c101795fdd1a4dfc01948ab9a8ad6446/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c101795fdd1a4dfc01948ab9a8ad6446/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aec24755b49ba7680e1b894ce4c55861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aec24755b49ba7680e1b894ce4c55861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/315693455f93ba6da67caed0afbd136f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/315693455f93ba6da67caed0afbd136f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9f2b851e7279b8e649081c591f7343d8/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9f2b851e7279b8e649081c591f7343d8/AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxbinding-2.1.1.aar/41279eb1a056579cd4df23ad646108ec/AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxbinding-2.1.1.aar/41279eb1a056579cd4df23ad646108ec/AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/610e581351c78dc904d73e231cb1b419/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/c4q/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/610e581351c78dc904d73e231cb1b419/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/34d9b4d5a4ec0d9b3c625e2e925a0b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/34d9b4d5a4ec0d9b3c625e2e925a0b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2fd436201120792bb2892c3e36ad4162/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2fd436201120792bb2892c3e36ad4162/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/068064faa14e51276b1fa2f7112e3e41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/068064faa14e51276b1fa2f7112e3e41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/44d8bcd33ba1b9a9dc0d9a3e1f358200/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/44d8bcd33ba1b9a9dc0d9a3e1f358200/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f36efe4b2a867bb501c7a6c4cb3e4153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f36efe4b2a867bb501c7a6c4cb3e4153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f1770f4ad1883eddde06186416fc745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f1770f4ad1883eddde06186416fc745/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/607073d9d12cb95436fefba841cc23d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/607073d9d12cb95436fefba841cc23d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/96a2988652a72228864ffe3311139ab0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/96a2988652a72228864ffe3311139ab0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/6673abced131cc33858c0cb1e3116c17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/6673abced131cc33858c0cb1e3116c17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/79c435f002952ccf3f22fbca50f70ad5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/79c435f002952ccf3f22fbca50f70ad5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/29f4596b0bac229e4cbc879353b1e905/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/c4q/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/29f4596b0bac229e4cbc879353b1e905/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8ec869469dfaaaac41437764ad95047f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8ec869469dfaaaac41437764ad95047f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/90427ad16c33e53dd635d80e4c191091/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/90427ad16c33e53dd635d80e4c191091/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a2fb81a3e4c0c1fa5d56c19900ef39e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a2fb81a3e4c0c1fa5d56c19900ef39e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2a2b4563b40e0174307d9ff5d003315e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/c4q/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2a2b4563b40e0174307d9ff5d003315e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+		ADDED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/c4q/Desktop/Open_Source_Projects/mobile-challenge/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/c4q/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/23ba1d57098d83d39b8e5e6d5eca2440/AndroidManifest.xml:9:13-64

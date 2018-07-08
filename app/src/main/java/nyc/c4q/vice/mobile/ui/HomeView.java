@@ -9,11 +9,13 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.widget.LinearLayout;
 import android.widget.Toast;
+
+import javax.inject.Inject;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
-import javax.inject.Inject;
 import nyc.c4q.vice.mobile.BuildConfig;
 import nyc.c4q.vice.mobile.R;
 import nyc.c4q.vice.mobile.ViceApp;
@@ -23,7 +25,8 @@ public class HomeView extends LinearLayout {
   @BindView(R.id.now_playing) RecyclerView nowPlayingRecyclerView;
   @BindView(R.id.most_popular) RecyclerView mostPopularRecyclerView;
 
-  @Inject MovieService movieService;
+  @Inject
+  MovieService movieService;
 
   private MovieAdapter nowPlayingAdapter;
   private MovieAdapter mostPopularAdapter;
