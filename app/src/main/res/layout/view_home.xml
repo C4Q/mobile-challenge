@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<nyc.c4q.vice.mobile.ui.HomeView
+<org.pursuit.demo.mobile.ui.HomeView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -37,4 +37,4 @@
       android:layout_weight="1"
       />
 
-</nyc.c4q.vice.mobile.ui.HomeView>
+</org.pursuit.demo.mobile.ui.HomeView>

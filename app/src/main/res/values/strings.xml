@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">Vice App</string>
+  <string name="app_name">Demo Movie App</string>
   <string name="home_title">Home</string>
   <string name="favorites_title">Favorites</string>
   <string name="now_playing">Now Playing</string>
