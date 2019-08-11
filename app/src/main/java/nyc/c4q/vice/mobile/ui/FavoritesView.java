@@ -1,13 +1,13 @@
 package nyc.c4q.vice.mobile.ui;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 import android.widget.TextView;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import java.util.List;
@@ -17,7 +17,7 @@ import nyc.c4q.vice.mobile.ViceApp;
 import nyc.c4q.vice.mobile.db.FavoritesDatabaseHelper;
 import nyc.c4q.vice.mobile.model.Movie;
 
-import static android.support.v7.widget.LinearLayoutManager.HORIZONTAL;
+import static androidx.recyclerview.widget.LinearLayoutManager.HORIZONTAL;
 
 public class FavoritesView extends FrameLayout {
   @BindView(R.id.favorites) RecyclerView favoritesRecyclerView;

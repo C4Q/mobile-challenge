@@ -1,15 +1,15 @@
 package nyc.c4q.vice.mobile.ui;
 
 import android.content.Context;
-import android.support.constraint.ConstraintLayout;
-import android.support.design.widget.BottomNavigationView;
-import android.support.v7.widget.Toolbar;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import androidx.appcompat.widget.Toolbar;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.jakewharton.rxbinding2.support.design.widget.RxBottomNavigationView;
 import com.jakewharton.rxrelay2.BehaviorRelay;
 import com.jakewharton.rxrelay2.PublishRelay;
