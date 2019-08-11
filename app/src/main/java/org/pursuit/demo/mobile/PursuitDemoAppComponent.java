@@ -4,7 +4,7 @@ import dagger.Component;
 import javax.inject.Singleton;
 import org.pursuit.demo.mobile.api.ApiModule;
 import org.pursuit.demo.mobile.db.DatabaseModule;
-import org.pursuit.demo.mobile.ui.DetailsActivity;
+import org.pursuit.demo.mobile.ui.DetailsView;
 import org.pursuit.demo.mobile.ui.FavoritesView;
 import org.pursuit.demo.mobile.ui.HomeView;
 import org.pursuit.demo.mobile.ui.MainView;
@@ -25,7 +25,7 @@ public interface PursuitDemoAppComponent {
 
   void inject(FavoritesView view);
 
-  void inject(DetailsActivity activity);
+  void inject(DetailsView view);
 
   void inject(MovieViewHolder viewHolder);
 }

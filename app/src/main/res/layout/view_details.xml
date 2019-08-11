@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.coordinatorlayout.widget.CoordinatorLayout
+<org.pursuit.demo.mobile.ui.DetailsView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -116,4 +116,4 @@
       app:layout_anchorGravity="bottom|right|end"
       />
 
-</androidx.coordinatorlayout.widget.CoordinatorLayout>
+</org.pursuit.demo.mobile.ui.DetailsView>
