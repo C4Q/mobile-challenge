@@ -1,4 +1,6 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.squareup.sqldelight'
+apply plugin: 'org.jetbrains.kotlin.android'
 
 android {
   compileSdkVersion 28
@@ -19,6 +21,12 @@ android {
   compileOptions {
     sourceCompatibility JavaVersion.VERSION_1_8
     targetCompatibility JavaVersion.VERSION_1_8
+  }
+}
+
+sqldelight {
+  MovieDatabase {
+    packageName = "org.pursuit.demo.mobile.db"
   }
 }
 
@@ -44,6 +52,10 @@ dependencies {
 
   implementation 'com.jakewharton.rxrelay2:rxrelay:2.1.0'
   implementation 'com.jakewharton.rxbinding2:rxbinding-design:2.1.1'
+
+  implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.41'
+  implementation 'com.squareup.sqldelight:android-driver:1.1.4'
+  implementation 'com.squareup.sqldelight:rxjava2-extensions:1.1.4'
 
   testImplementation 'junit:junit:4.12'
 }

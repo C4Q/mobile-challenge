@@ -1,0 +1,17 @@
+CREATE TABLE favorites(
+ movie_id INTEGER AS Integer PRIMARY KEY,
+ poster_path TEXT NOT NULL,
+ title TEXT NOT NULL
+);
+
+select:
+SELECT * FROM favorites;
+
+insert:
+INSERT INTO favorites VALUES (?, ?, ?);
+
+delete:
+DELETE FROM favorites WHERE movie_id = ?;
+
+is_favorite:
+SELECT COUNT(*) > 0 FROM favorites WHERE movie_id = ?;
