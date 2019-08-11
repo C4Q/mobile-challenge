@@ -11,7 +11,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.jakewharton.rxbinding2.view.RxView;
 import com.squareup.picasso.Picasso;
+import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
 import javax.inject.Inject;
@@ -39,6 +41,7 @@ public class DetailsActivity extends AppCompatActivity {
   @Inject Picasso picasso;
 
   private CompositeDisposable disposables = new CompositeDisposable();
+  private Movie thisMovie;
 
   @Override protected void onCreate(@Nullable Bundle bundle) {
     super.onCreate(bundle);
@@ -47,33 +50,39 @@ public class DetailsActivity extends AppCompatActivity {
     ((PursuitDemoApp) getApplication()).component().inject(this);
 
     Intent intent = getIntent();
-    final int movieId = intent.getIntExtra("movie_id", 0);
-    final String posterPath = intent.getStringExtra("poster_path");
-    final String title = intent.getStringExtra("title");
-
-    boolean isFavorite = databaseHelper.isFavorite(movieId);
-    fab.setImageResource(isFavorite ? R.drawable.ic_done : R.drawable.ic_save);
-
-    fab.setOnClickListener(v -> {
-      boolean isFavorite1 = databaseHelper.isFavorite(movieId);
-      if (isFavorite1) {
-        databaseHelper.deleteFavorite(movieId);
-        fab.setImageResource(R.drawable.ic_save);
-      } else {
-        databaseHelper.addFavorite(Movie.from(movieId, posterPath, title));
-        fab.setImageResource(R.drawable.ic_done);
-      }
-    });
+    int movieId = intent.getIntExtra("movie_id", 0);
+    String posterPath = intent.getStringExtra("poster_path");
+    String title = intent.getStringExtra("title");
+    thisMovie = Movie.from(movieId, posterPath, title);
   }
 
   @Override protected void onResume() {
     super.onResume();
 
-    Intent intent = getIntent();
-    int movieId = intent.getIntExtra("movie_id", 0);
+    disposables.add(
+        Observable.just(databaseHelper.isFavorite(thisMovie.id))
+            .subscribe(isFavorite ->
+                fab.setImageResource(isFavorite ? R.drawable.ic_done : R.drawable.ic_save)
+            )
+    );
 
     disposables.add(
-        movieService.getMovieDetails(movieId, BuildConfig.MOVIE_DATABASE_API_KEY)
+        RxView.clicks(fab)
+            .map(click -> databaseHelper.isFavorite(thisMovie.id))
+            .subscribe(wasFavorite -> {
+              if (wasFavorite) {
+                databaseHelper.deleteFavorite(thisMovie.id);
+                fab.setImageResource(R.drawable.ic_save);
+              } else {
+                databaseHelper.addFavorite(thisMovie);
+                fab.setImageResource(R.drawable.ic_done);
+              }
+            })
+    );
+
+    disposables.add(
+        movieService
+            .getMovieDetails(thisMovie.id, BuildConfig.MOVIE_DATABASE_API_KEY)
             .observeOn(AndroidSchedulers.mainThread())
             .subscribe(
                 details -> {
@@ -89,7 +98,8 @@ public class DetailsActivity extends AppCompatActivity {
     );
 
     disposables.add(
-        movieService.getReviews(movieId, BuildConfig.MOVIE_DATABASE_API_KEY)
+        movieService
+            .getReviews(thisMovie.id, BuildConfig.MOVIE_DATABASE_API_KEY)
             .observeOn(AndroidSchedulers.mainThread())
             .subscribe(
                 reviewResponse -> {
