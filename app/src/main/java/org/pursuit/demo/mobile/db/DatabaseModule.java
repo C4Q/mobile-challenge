@@ -34,8 +34,4 @@ public class DatabaseModule {
     return MovieDatabaseImplKt.newInstance(JvmClassMappingKt.getKotlinClass(MovieDatabase.class),
         new AndroidSqliteDriver(helper));
   }
-
-  @Provides @Singleton FavoritesDatabaseHelper provideDatabaseHelper(@App Context context) {
-    return new FavoritesDatabaseHelper(context);
-  }
 }
