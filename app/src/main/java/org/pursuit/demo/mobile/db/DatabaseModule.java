@@ -7,6 +7,8 @@ import com.squareup.sqldelight.android.AndroidSqliteDriver;
 import com.squareup.sqldelight.db.SqlDriver;
 import dagger.Module;
 import dagger.Provides;
+import io.reactivex.Scheduler;
+import io.reactivex.schedulers.Schedulers;
 import javax.inject.Singleton;
 import kotlin.jvm.JvmClassMappingKt;
 import kotlin.reflect.KClass;
@@ -33,5 +35,9 @@ public class DatabaseModule {
   @Provides @Singleton MovieDatabase provideMovieDatabase(SupportSQLiteOpenHelper helper) {
     return MovieDatabaseImplKt.newInstance(JvmClassMappingKt.getKotlinClass(MovieDatabase.class),
         new AndroidSqliteDriver(helper));
+  }
+
+  @Provides @Singleton Scheduler provideIoScheduler() {
+    return Schedulers.io();
   }
 }
